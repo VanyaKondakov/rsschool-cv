@@ -2,7 +2,6 @@
     box-sizing: border-box;
     scroll-behavior: smooth;
     font-family: 'Roboto', sans-serif;
-    background-color: rgba(150, 58, 179, 0,2);
 }
 nav {
     width: 100%;
